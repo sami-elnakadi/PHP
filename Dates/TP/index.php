@@ -55,7 +55,7 @@ $b = 1;
                             echo '<td>';
                             echo $b;    
                             echo '</td>';  
-                    }
+                        }
                 }
                 $b++;    
             }
