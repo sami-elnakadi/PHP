@@ -1,0 +1,10 @@
+td{
+    border: 1px solid #000;
+    width: 100px;
+    }
+
+tr{
+    text-align: center;
+    border: 1px solid #000;
+    width: 100px;
+}
