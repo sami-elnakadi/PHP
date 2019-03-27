@@ -74,8 +74,8 @@ if($nombre2 == 0 and ($ope =='4')){
     <body>
 
         <form name="inscription" method="post" action="index.php">
-            Entrez un nombre : <input type="text" name="nombre1" id = "nombre"/> <br/>
-            Entrez un nombre : <input type="text" name="nombre2" id = "nombre"/><br/>
+            Entrez un nombre : <input type="number" name="nombre1" id = "nombre"/> <br/>
+            Entrez un nombre : <input type="number" name="nombre2" id = "nombre"/><br/>
             <select name="calcul" size="1">
             <option value = '1'>Addition</option>
             <option value = '2'>Soustraction</option>

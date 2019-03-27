@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color:#74BBE4;
+    min-height: 100%;
+    position: relative;
+}
+
+ul{
+    border: solid 1px white;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    justify-content: center;
+    background-color: grey;
+    min-width: 100%;    
+}
+
+article{
+    background-color: grey;
+}

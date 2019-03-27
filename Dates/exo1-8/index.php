@@ -25,9 +25,9 @@ echo $time.'<br>';
 
 echo 'EXO 5 <br>';
 
-$t1 = mktime(0, 0, 0, 16, 5, 2016);
-$DifSec = $t0 - $t1;
-$DifJour = $DifSec/86400;
+$t1 = "16-05-2016";
+$DifSec = $t0 - strtotime($t1);
+$DifJour = floor($DifSec/86400);
 echo 'Le nombre jour entre les 2 dates est '.$DifJour.'<br>';
 
 echo 'EXO 6 <br>';
