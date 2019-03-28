@@ -3,9 +3,7 @@
         <div class="col-md-12">
 <?php
 $page = $_GET['page'];
-if(isset($page)){
-    var_dump($_GET['page']);
-}
+
     if($page === 'Crocodile'){
         require 'view/croco.php';
     }

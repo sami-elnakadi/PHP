@@ -13,7 +13,7 @@ echo '<ul>'
 
 <?php
 foreach($menu as $val){
-    echo '<li><a href="http://localhost/PHP/Controleur/view/index.php?page='.$val.'">'.$val.'</a></li>';
+    echo '<li><a href="http://localhost/PHP/Controleur/index.php?page='.$val.'">'.$val.'</a></li>';
 }
 ?>
 <?php

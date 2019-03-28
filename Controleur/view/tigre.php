@@ -1,6 +1,6 @@
 <h2> Tigre <h2>
 
-<img src="https://commons.wikimedia.org/wiki/File:Tigerramki.jpg?uselang=fr" alt="tigre">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Tigerramki.jpg" alt="tigre">
 
 <p>
 Le tigre (Panthera tigris) est une espèce de mammifère carnivore de la famille des félidés (Felidae) du genre Panthera. Aisément reconnaissable à sa fourrure rousse rayée de noir, il est le plus grand félin sauvage et l'un des plus grands carnivores terrestres. 

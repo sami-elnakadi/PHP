@@ -1,6 +1,6 @@
 <h2> Lion <h2>
 
-<img src="https://commons.wikimedia.org/wiki/File:Lion_d%27Afrique.jpg?uselang=fr" alt="lion">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lion_d%27Afrique.jpg/800px-Lion_d%27Afrique.jpg" alt="lion">
 
 <p>
 Le lion (Panthera leo) est une espèce de mammifères carnivores de la famille des félidés. La femelle du lion est la lionne, son petit est le lionceau.
