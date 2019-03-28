@@ -1,4 +1,4 @@
-<h2> Tigre <h2>
+<h2> Tigre </h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Tigerramki.jpg" alt="tigre">
 

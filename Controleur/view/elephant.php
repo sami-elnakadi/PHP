@@ -1,4 +1,4 @@
-<h2> Elephant <h2>
+<h2> Elephant </h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Paignton_%2C_Paignton_Zoo%2C_Elephants_-_geograph.org.uk_-_1484811.jpg" alt="Elephant">
 

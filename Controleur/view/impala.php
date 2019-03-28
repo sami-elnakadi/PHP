@@ -1,4 +1,4 @@
-<h2> Impala <h2>
+<h2> Impala </h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Serengeti_Impala3.jpg/800px-Serengeti_Impala3.jpg" alt="Impala">
 
