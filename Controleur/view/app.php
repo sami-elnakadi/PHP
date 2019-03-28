@@ -1,10 +1,25 @@
-
-
-<div class = "container">
-    <section class = "row">
-        <article class = "col-md-offset-2 col-md-8">
-                <p> Bonjour Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam eligendi esse ut laudantium nam, inventore assumenda, voluptas ipsa numquam alias quod necessitatibus porro odio unde! Incidunt eius dolore molestias quam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint voluptates exercitationem sit animi in aliquid ratione porro harum incidunt, similique iste illo debitis quasi, ipsum, est perspiciatis sequi. Porro, nam!</p>
-        </article>
-    </section>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+<?php
+$page = $_GET['page'];
+if(isset($page)){
+    var_dump($_GET['page']);
+}
+    if($page === 'Crocodile'){
+        require 'view/croco.php';
+    }
+    else if($page === 'Elephant'){
+        require 'view/elephant.php';
+    }else if($page === 'Impala'){
+        require 'view/impala.php';
+    }else if($page === 'Lion'){
+        require 'view/lion.php';
+    }else if($page === 'Tigre'){
+        require 'view/tigre.php';
+    }
+?>
+            </div>
+    </div>
 </div>
 

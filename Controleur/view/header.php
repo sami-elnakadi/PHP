@@ -1,29 +1,24 @@
+ 
  <header>
 
-        <nav class="col-md-8 navbar navbar-expand-lg">
+        <nav class="col-md-12 navbar">
 
-<div class="collapse navbar-collapse" id="navbarSupportedContent1">
+<div class="navbar-collapse" id="navbarSupportedContent1">
   
-        <ul class="nav navbar-nav ml-auto">
-            <li class="nav-item active">
-            <a class="nav-link" href="">Lion</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="">Impala</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link" href="">Crocodile</a>
-            </li>
+<?php
 
-            <li class="nav-item">
-            <a class="nav-link" href="">Elephant</a>
-            </li>
-            
-            <li class="nav-item">
-            <a class="nav-link" href="">Tigre</a>
-            </li>      
-       
-        </ul>    
+$menu = array('Crocodile','Elephant','Impala','Lion', 'Tigre');
+echo '<ul>'
+?>
+
+<?php
+foreach($menu as $val){
+    echo '<li><a href="http://localhost/PHP/Controleur/view/index.php?page='.$val.'">'.$val.'</a></li>';
+}
+?>
+<?php
+echo '</ul>';
+?>
     </div> 
 </nav>
 </header>

@@ -2,9 +2,11 @@ html { height: 100%; }
 
 body { background-color: #74BBE4; min-height: 100%; position: relative; }
 
-ul { border: solid 1px white; }
+ul { list-style: none; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
 
-.footer { position: fixed; bottom: 0; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; background-color: grey; min-width: 100%; }
+li { padding-left: 30px; }
 
-article { background-color: grey; }
+.footer { position: fixed; bottom: 0; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; background-color: gray; min-width: 100%; }
+
+.container { background-color: gray; text-align: center; margin-top: 30px; }
 /*# sourceMappingURL=control.css.map */
